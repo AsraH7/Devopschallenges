@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi its been soo long since I met u!
+=======
+hi hello how are you doing?
+>>>>>>> feature
 last line
